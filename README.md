@@ -18,13 +18,17 @@ IF YOU ARE ON LAPTOP WITH A ZOOM IT IS RECOMMENDED TO USE FULLSCREEN!
 The logins for the users:
 
 Normal users
+
 Username: ruben123
 Password: Wachtwoord123
+
 
 Username: wim123
 Password: Password123
 
+
 Admin user
+
 Username: mark123
 Password: Welkom123
 
