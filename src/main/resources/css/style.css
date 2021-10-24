@@ -1,0 +1,47 @@
+.menu
+{
+    -fx-pref-width: 1200px;
+    -fx-background-color: #000000;
+}
+
+.PDFStyle {
+    -fx-color: #ffffff;
+    -fx-background-color: #181818;
+}
+
+.globalLayout {
+    /*-fx-background-color: #181818; */
+    -fx-background-image: url("../images/backgroundGradient.png");
+
+}
+
+.Form {
+    -fx-font-size: 16px;
+    -fx-font-weight: 400;
+}
+
+
+
+.wrongInput {
+    -fx-border-color: red;
+    -fx-border-widht: 1;
+    -fx-border-style: solid inside;
+}
+
+.menu-button > .arrow-button {
+    -fx-padding: 0;
+}
+
+.menu-button > .arrow-button > .arrow {
+    -fx-padding: 0;
+}
+
+.navigation {
+    -fx-font-size: 14px;
+    -fx-font-weight: 400;
+}
+
+.table {
+    -fx-font-size: 14px;
+    -fx-font-weight: 400;
+}
